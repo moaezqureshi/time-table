@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+table, td, th{
+    padding: 10px;
+    border: 2px solid black;
+}
+table{
+    background-color: rgb(150 ,193, 169);
+    border-collapse: collapse;
+}
+.lab-bg{
+    background-color: rgb(190, 245, 255);
+}
+td{
+    font-family: sans-serif;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
